@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-21T04:03:29 TRT" name="Default suite" finished-at="2021-12-21T04:05:03 TRT" duration-ms="93618">
+    <groups>
+    </groups>
+    <test started-at="2021-12-21T04:03:29 TRT" name="Default test" finished-at="2021-12-21T04:05:03 TRT" duration-ms="93618">
+      <class name="tests.Scenerious">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:03:29 TRT" name="setup" finished-at="2021-12-21T04:03:42 TRT" duration-ms="12640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test1()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:03:42 TRT" name="test1" finished-at="2021-12-21T04:03:53 TRT" duration-ms="11534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:03:53 TRT" name="teardown" finished-at="2021-12-21T04:03:55 TRT" duration-ms="1574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:03:55 TRT" name="setup" finished-at="2021-12-21T04:04:06 TRT" duration-ms="10836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test2()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:06 TRT" name="test2" finished-at="2021-12-21T04:04:28 TRT" duration-ms="22246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:28 TRT" name="teardown" finished-at="2021-12-21T04:04:29 TRT" duration-ms="1424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:29 TRT" name="setup" finished-at="2021-12-21T04:04:39 TRT" duration-ms="9460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test3()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:39 TRT" name="test3" finished-at="2021-12-21T04:04:45 TRT" duration-ms="5845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:45 TRT" name="teardown" finished-at="2021-12-21T04:04:46 TRT" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:46 TRT" name="setup" finished-at="2021-12-21T04:04:54 TRT" duration-ms="8295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test4()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:04:54 TRT" name="test4" finished-at="2021-12-21T04:05:01 TRT" duration-ms="6987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Scenerious@101952da]" started-at="2021-12-21T04:05:01 TRT" name="teardown" finished-at="2021-12-21T04:05:03 TRT" duration-ms="1378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Scenerious -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
